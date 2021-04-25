@@ -1,0 +1,12 @@
+{
+	// python configuration
+	"jedi.enable": true,
+	"jedi.markupKindPreferred": "plaintext",
+	"jedi.trace.server": "messages",
+	"jedi.jediSettings.autoImportModules": [],
+	"jedi.executable.args": [],
+	"jedi.completion.disableSnippets": false,
+	"jedi.diagnostics.enable": true,
+	"jedi.diagnostics.didChange": true,
+	"jedi.diagnostics.didSave": true,
+}
